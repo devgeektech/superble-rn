@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">superble</string>
+<!--    <string name="facebook_app_id">175366026347133</string>
+    <string name="fb_login_protocol_scheme">fb175366026347133</string>-->
+
+    <string name="facebook_app_id">190122027991599</string>
+    <string name="fb_login_protocol_scheme">fb190122027991599</string>
+</resources>

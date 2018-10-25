@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "793200747562",
+    "firebase_url": "https://superble-578bd.firebaseio.com",
+    "project_id": "superble-578bd",
+    "storage_bucket": "superble-578bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793200747562:android:97c8db4935224aaa",
+        "android_client_info": {
+          "package_name": "com.superble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793200747562-bh2ngkde5lcqo4ikc1msp5cej6pf4amh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superble",
+            "certificate_hash": "ecf6c6e6781cf0b8e73f3f691dc7ec5e6bdb9572"
+          }
+        },
+        {
+          "client_id": "793200747562-v1okirb104bdkh2uoht95n1b8sdjipip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superble",
+            "certificate_hash": "7c6331c0ac70cb66a6dca5b15aaafe717e844317"
+          }
+        },
+        {
+          "client_id": "793200747562-svhpbbg9ho3cm67qp78bnug5j91p4nul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superble",
+            "certificate_hash": "cc9cd68d922c5f1a228c87e82be3b24dea461669"
+          }
+        },
+        {
+          "client_id": "793200747562-kntq1t7qrkllkfh7ipcoectit9v4bivd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "793200747562-2qt2hf4v9ulmldataa8vlqe2spk0mava.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "793200747562-3ojjqev65t1hel09hvscisrl59k7fc8b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "793200747562-b1bjlqai70rvsnekre113lpa1c75h5i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIcPdY7Pkj_Adp30CzJB_wrefP0IP3Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

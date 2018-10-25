@@ -1,0 +1,10 @@
+/node_modules
+/android/build
+/android/app/build
+<<<<<<< HEAD
+/android/.gradle
+/android/.idea
+=======
+>>>>>>> 38b8952a31da47e143864322934d836967b2f03e
+/ios/build
+*.iml

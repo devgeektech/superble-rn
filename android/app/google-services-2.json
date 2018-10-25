@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "67376001495",
+    "firebase_url": "https://superble-dev-bb6e0.firebaseio.com",
+    "project_id": "superble-dev-bb6e0",
+    "storage_bucket": "superble-dev-bb6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67376001495:android:97c8db4935224aaa",
+        "android_client_info": {
+          "package_name": "com.superble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67376001495-rg6ipgg3d45h3hpkfufee3j316fal337.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "67376001495-hv3bc1t0c57rmu5fi1l7bih13q55q6sj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "67376001495-hv3bc1t0c57rmu5fi1l7bih13q55q6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_QKdeknOvyWdPMloFBQIkcMqCJyFwlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67376001495:android:e6f6c056cc8fdc76",
+        "android_client_info": {
+          "package_name": "com.superbledev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67376001495-rg6ipgg3d45h3hpkfufee3j316fal337.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "67376001495-4s5ajmhms5rqgpupfhjak8qv1mapcpbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superbledev",
+            "certificate_hash": "7c6331c0ac70cb66a6dca5b15aaafe717e844317"
+          }
+        },
+        {
+          "client_id": "67376001495-hv3bc1t0c57rmu5fi1l7bih13q55q6sj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "67376001495-hv3bc1t0c57rmu5fi1l7bih13q55q6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_QKdeknOvyWdPMloFBQIkcMqCJyFwlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67376001495-rg6ipgg3d45h3hpkfufee3j316fal337.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67376001495-biv6g4fvl1aeietgpd6qs1samsq7b9pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.superble"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
